@@ -9,15 +9,6 @@
     }
   },
   {
-    "speaker": "디바",
-    "input": {
-      "speakerImages": {
-        "avatar": { "url": "https://i.imgur.com/pdknBR9.png" },
-        "standing": { "url": "https://i.imgur.com/pdknBR9.png" }
-      }
-    }
-  },
-  {
     "speaker": "검도부청년",
     "input": {
       "speakerImages": {
