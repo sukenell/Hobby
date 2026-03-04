@@ -16,5 +16,14 @@
         "standing": { "url": "https://i.imgur.com/pdknBR9.png" }
       }
     }
+  },
+  {
+    "speaker": "검도부청년",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/TyzSlJz.png" },
+        "standing": { "url": "https://i.imgur.com/kiT8Cp1.png" }
+      }
+    }
   }
 ]
