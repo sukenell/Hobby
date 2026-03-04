@@ -1,0 +1,11 @@
+[
+  {
+    "speaker": "디바",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "" },
+        "standing": { "url": "https://i.imgur.com/pdknBR9.png" }
+      }
+    }
+  },
+]
