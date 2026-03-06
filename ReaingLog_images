@@ -1,6 +1,6 @@
 [
   {
-    "speaker": "소녀1",
+    "speaker": "아이(여자)",
     "input": {
       "speakerImages": {
         "avatar": { "url": "https://i.imgur.com/AVjZKtm.png" },
@@ -8,8 +8,17 @@
       }
     }
   },
+{
+    "speaker": "테스트용 아가씨",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/5d4xdTN.png" },
+        "standing": { "url": "https://i.imgur.com/7umq2bt.png" }
+      }
+    }
+  },
   {
-    "speaker": "디바",
+    "speaker": "중년(여)",
     "input": {
       "speakerImages": {
         "avatar": { "url": "https://i.imgur.com/pdknBR9.png" },
@@ -18,7 +27,7 @@
     }
   },
   {
-    "speaker": "검도부청년",
+    "speaker": "학생(남)",
     "input": {
       "speakerImages": {
         "avatar": { "url": "https://i.imgur.com/TyzSlJz.png" },
