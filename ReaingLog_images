@@ -1,6 +1,6 @@
 [
   {
-    "speaker": "아이(여자)",
+    "speaker": "여자아이",
     "input": {
       "speakerImages": {
         "avatar": { "url": "https://i.imgur.com/AVjZKtm.png" },
@@ -9,16 +9,16 @@
     }
   },
 {
-    "speaker": "테스트용 아가씨",
+    "speaker": "정장의 남자",
     "input": {
       "speakerImages": {
-        "avatar": { "url": "https://i.imgur.com/5d4xdTN.png" },
-        "standing": { "url": "https://i.imgur.com/7umq2bt.png" }
+        "avatar": { "url": "https://i.imgur.com/Onfz4qi.png" },
+        "standing": { "url": "https://i.imgur.com/PjiMSuk.png" }
       }
     }
   },
   {
-    "speaker": "중년(여)",
+    "speaker": "중년 여자",
     "input": {
       "speakerImages": {
         "avatar": { "url": "https://i.imgur.com/pdknBR9.png" },
@@ -27,7 +27,7 @@
     }
   },
   {
-    "speaker": "학생(남)",
+    "speaker": "검도부 남학생",
     "input": {
       "speakerImages": {
         "avatar": { "url": "https://i.imgur.com/TyzSlJz.png" },
