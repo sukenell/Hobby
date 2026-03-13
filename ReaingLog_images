@@ -1,4 +1,72 @@
 [
+{
+    "speaker": "여자아이",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/AVjZKtm.png" },
+        "standing": { "url": "https://i.imgur.com/KejiHJW.png" }
+      }
+    }
+  },
+{
+    "speaker": "정장의 남자",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/Onfz4qi.png" },
+        "standing": { "url": "https://i.imgur.com/PjiMSuk.png" }
+      }
+    }
+  },
+  {
+    "speaker": "중년 여자",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/pdknBR9.png" },
+        "standing": { "url": "https://i.imgur.com/pdknBR9.png" }
+      }
+    }
+  },
+  {
+    "speaker": "검도부 남학생",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/TyzSlJz.png" },
+        "standing": { "url": "https://i.imgur.com/kiT8Cp1.png" }
+      },
+{
+    "speaker": "여자아이",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/AVjZKtm.png" },
+        "standing": { "url": "https://i.imgur.com/KejiHJW.png" }
+      }
+    }
+  },
+{
+    "speaker": "정장의 남자",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/Onfz4qi.png" },
+        "standing": { "url": "https://i.imgur.com/PjiMSuk.png" }
+      }
+    }
+  },
+  {
+    "speaker": "중년 여자",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/pdknBR9.png" },
+        "standing": { "url": "https://i.imgur.com/pdknBR9.png" }
+      }
+    }
+  },
+  {
+    "speaker": "검도부 남학생",
+    "input": {
+      "speakerImages": {
+        "avatar": { "url": "https://i.imgur.com/TyzSlJz.png" },
+        "standing": { "url": "https://i.imgur.com/kiT8Cp1.png" }
+      },
   {
     "speaker": "여자아이",
     "input": {
